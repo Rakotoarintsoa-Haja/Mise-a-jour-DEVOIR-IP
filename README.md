@@ -18,6 +18,8 @@ mv *.cgi ip_enregistrement.txt /var/www/html</p>
 <h5>-Ouvrez votre navigateurs: <br>
 http://localhost/inscription.cgi <br></h5>
     <h2 style="color: red;">-Assurez-vous de bien configurer aussi votre serveur.</h2>
+    <h4>Voila tout, assurez-vous d'avoir le persmission d'ecrire dans le fichier ip_enregistrement.txt; si vous ne savez pas comment le faire voici un petit tuto: 
+chmod +x ip_enregistrement.txt </h4>
   </body>
 </html>
 
@@ -32,5 +34,4 @@ http://localhost/inscription.cgi <br></h5>
 
 
 
-Voila tout, assurez-vous d'avoir le persmission d'ecrire dans le fichier ip_enregistrement.txt; si vous ne savez pas comment le faire voici un petit tuto: 
-chmod +x ip_enregistrement.txt 
+
