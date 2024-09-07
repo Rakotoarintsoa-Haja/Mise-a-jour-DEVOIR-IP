@@ -1,7 +1,4 @@
-#include <stdio.h>
-#include <stdlib.h>
-#include <string.h>
-#include <arpa/inet.h>
+#include "prototype_ip2.h"
 
 int main() {
     // En-tête HTTP pour CGI
