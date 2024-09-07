@@ -4,5 +4,5 @@ include <stdio.h>
 #include <arpa/inet.h>
 unsigned int cidr_to_netmask(int cidr);
 void calcul_reseau(char* input);
-void print_ip(unsigned int ip)
+void print_ip(unsigned int ip);
 void afficher_formulaire();
