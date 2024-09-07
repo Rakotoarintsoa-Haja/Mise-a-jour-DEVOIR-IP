@@ -13,7 +13,7 @@ Petit introduction: Ceci est un programme creer par moi-meme, qui peut faciliter
       gcc inscription.c mesfonction1.c -o inscription.cgi -lm <br>
 gcc connexion.c fonction2.c mesfonction1.c -o connexion.cgi -lm <br>
 gcc interface-fin.c mesfonction1.c -o interface-fin.cgi -lm <br>
-gcc code_source.c mesfonction1.c -o ip.cgi -lm <br>
+gcc code_source.c mesfonction1.c -o ip.cgi -lm <br>gcc code_source1.c fonction_ip.c -o ip1.cgi <br>
 mv *.cgi ip_enregistrement.txt /var/www/html</p>
 <h5>-Ouvrez votre navigateurs: <br>
 http://localhost/inscription.cgi <br></h5>
